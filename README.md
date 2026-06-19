@@ -1,5 +1,3 @@
-# digital-wellbeing-dashboard
-An interactive Power BI dashboard built using a custom dataset to analyze digital habits and wellbeing metrics.
 # 🌸 Digital Wellbeing Dashboard
 
 An interactive Power BI dashboard built using a self-created dataset to analyze daily digital habits and wellbeing metrics.
